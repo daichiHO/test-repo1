@@ -1,6 +1,6 @@
 variable "instance_name" {
   description = "Value of the Name tag for the EC2 instance"
   type        = string
-  default     = "ExampleAppServerInstance-from-github"
+  default     = "ExampleAppServerInstance-from-github-2"
 }
 
